@@ -1,13 +1,13 @@
 # PROJECT : HOME CREDIT DEFAULT RISK 
 
-#Objective:
+# Objective:
 
   The main objective is to predict clients' repayment abilities.Doing so will ensure that clients capable of repayment are not rejected   and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
 
-#Source:
+# Source:
   Kaggle: https://www.kaggle.com/c/home-credit-default-risk/overview
 
-#Dataset:
+# Dataset:
   1.application_{train|test}.csv
     This is the main table, broken into two files for Train (with TARGET) and Test (without TARGET).
     Static data for all applications. One row represents one loan in our data sample.
@@ -43,15 +43,19 @@
 
 # Steps:
 
-  1.0 Data Loading
-  2.0 Data Exploration
-  3.0 Data Merge
-  4.0 Dimension Reduction and Scaling
-  5.0 Model Building
+  # 1.0 Data Loading
+  # 2.0 Data Exploration
+  # 3.0 Data Merge
+  # 4.0 Dimension Reduction and Scaling
+  # 5.0 Model Building
     5.0 Build the Model
+    
     5.1 Run the Model
+    
     5.2 Evaluate the Model
+    
     5.3 Random Forest using Grid Search
-  6.0 Best Feature Importance - LightGBM
+    
+  # 6.0 Best Feature Importance - LightGBM
 
 
