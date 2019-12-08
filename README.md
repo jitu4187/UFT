@@ -43,11 +43,11 @@
 
 # Steps:
 
-  # 1.0 Data Loading
-  # 2.0 Data Exploration
-  # 3.0 Data Merge
-  # 4.0 Dimension Reduction and Scaling
-  # 5.0 Model Building
+   1.0 Data Loading
+   2.0 Data Exploration
+   3.0 Data Merge
+   4.0 Dimension Reduction and Scaling
+   5.0 Model Building
     5.0 Build the Model
     
     5.1 Run the Model
@@ -56,6 +56,9 @@
     
     5.3 Random Forest using Grid Search
     
-  # 6.0 Best Feature Importance - LightGBM
+   6.0 Best Feature Importance - LightGBM
+  
+ # Reference:
+  https://github.com/jitu4187/UFT
 
 
