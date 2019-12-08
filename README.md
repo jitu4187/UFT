@@ -44,10 +44,15 @@
 # Steps:
 
    1.0 Data Loading
+   
    2.0 Data Exploration
+   
    3.0 Data Merge
+   
    4.0 Dimension Reduction and Scaling
+   
    5.0 Model Building
+    
     5.0 Build the Model
     
     5.1 Run the Model
